@@ -11,7 +11,7 @@ export default function Layout({children}) {
             <main>
                 <div>
                     {children}
-                    <Analytics />
+                    <Analytics/>
                 </div>
             </main>
         </div>
