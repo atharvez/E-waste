@@ -11,6 +11,7 @@ export default function Layout({children}) {
             <main>
                 <div>
                     {children}
+                    <Analytics />
                 </div>
             </main>
         </div>
