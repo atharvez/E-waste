@@ -6,6 +6,7 @@ export default function Layout({children}) {
         <div className='min-h-screen bg-white flex flex-col'>
             <Head>
                 <title>E waste website</title>
+                <link rel='icon' href='favicon.ico'/>
             </Head>
             <main>
                 <div>
