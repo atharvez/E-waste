@@ -154,8 +154,6 @@ const Calculator = () => {
             </div>
           ))}
         </div>
-
-        {/* Household Appliances Box */}
         <div className="flex-1 bg-gradient-to-r from-green-400 to-green-600 p-4 rounded-lg shadow-md m-2">
           <h3 className="text-lg font-semibold text-white">Household Appliances</h3>
           <DropdownSelect

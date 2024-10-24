@@ -11,12 +11,8 @@ const Footer = () => {
         </p>
         <p className="text-xs">
           Follow us on{' '}
-          <Link href="https://twitter.com" className="text-blue-400 hover:underline">
-            Twitter
-          </Link>{' '}
-          |{' '}
-          <Link href="https://facebook.com" className="text-blue-400 hover:underline">
-            Facebook
+          <Link href="https://www.instagram.com/team_green_flags/profilecard/" className="text-blue-400 hover:underline">
+            Instagram
           </Link>
         </p>
       </div>
