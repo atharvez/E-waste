@@ -46,7 +46,7 @@ export default function Home() {
       </Head>
 
       <header className={`fixed top-0 left-0 w-full text-center py-5 z-30 transition duration-300 ease-in-out ${isScrolled ? 'bg-gradient-to-b from-white to-transparent shadow-md' : 'bg-transparent'}`}>
-        <h1 className={`text-5xl md:text-7xl font-sans font-bold tracking-wide ${isScrolled ? 'text-black shadow-md' : 'text-white'} ${isScrolled ? 'text-shadow-md' : ''}`}>
+        <h1 className={`text-5xl md:text-7xl border-violet-300 font-sans font-bold tracking-wide ${isScrolled ? 'text-black shadow-md' : 'text-white'} ${isScrolled ? 'text-shadow-md' : ''}`}>
           RE BYTE
         </h1>
       </header>
