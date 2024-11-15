@@ -36,6 +36,11 @@ const AboutUs = () => {
           To be a leader in e-waste recycling and remanufacturing, setting the standard for responsible practices and making a lasting impact on our environment.
         </p>
 
+        <h2 className="text-3xl font-semibold mb-4 text-pink-500">Founders</h2>
+        <p className="text-lg text-gray-800 mb-6">
+          <strong className="text-blue-600">Atharva Desai</strong>, <strong className="text-blue-600">Varda Gachake</strong>, <strong className="text-blue-600">Sharwari Kathole</strong>, and <strong className="text-blue-600">Aniket Damedhar</strong> are the passionate visionaries behind <strong>RE BYTE</strong>. Their dedication and innovative spirit drive our mission to make tech sustainable and eco-friendly.
+        </p>
+
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
           <div className="bg-white border border-gray-200 rounded-lg shadow-lg p-4 hover:shadow-xl transition-shadow duration-300">
             <img src="https://i.imgur.com/4EFPrq8.jpeg" alt="E-waste collection" className="w-full h-48 object-cover rounded-t-lg" />

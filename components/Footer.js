@@ -11,7 +11,7 @@ const Footer = () => {
         </p>
         <p className="text-xs">
           Follow us on{' '}
-          <Link href="https://www.instagram.com/team_green_flags/profilecard/" className="text-blue-400 hover:underline">
+          <Link href="https://www.instagram.com/team_green_flags/" className="text-blue-400 hover:underline">
             Instagram
           </Link>
         </p>
